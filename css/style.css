@@ -1,0 +1,113 @@
+.top{
+    background-color: #EAF6F6;
+    padding-top: 3%;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    margin-top:0px ;
+    font-family: 'Sacramento',cursive;
+    font-size: 100px;
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+}
+.pro{
+    text-decoration: underline;
+}
+.cloud{
+    position: relative;
+    left: 300px;
+}
+.bottom-cloud{
+    position: relative;
+    bottom: 300px;
+}
+.profile-pic{
+    width: 15%;
+    margin-top: 100px;
+}
+.desc{
+    color: #40514E;
+    margin-bottom: 50px;
+}
+hr{
+    
+    height: 0px;
+    width: 5%;
+    border-style: none ;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    
+}
+div.skills{
+    margin-top: 50px;
+}
+.Myskills{
+    line-height: 2%;
+}
+.computer{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 30px;
+    position: absolute;
+    
+    left: 0;
+    right: 0;
+    
+}
+.random{
+    margin-bottom: 50px;
+}
+.footer-link{
+    color: #11999E;
+    margin-bottom: 0px;
+    margin-left:20px ;
+}
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+.touch{
+    
+    margin-top: 100px;
+}
+.btn {
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    margin-bottom: 50px ;
+  }
